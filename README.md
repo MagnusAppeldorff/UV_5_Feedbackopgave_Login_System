@@ -1,7 +1,7 @@
     Runtime Renegades:
 -Ahmad 
 -Ahman 
--Steffan
+-Stefan
 -Magnus
 
     Hvad gør programmet:
